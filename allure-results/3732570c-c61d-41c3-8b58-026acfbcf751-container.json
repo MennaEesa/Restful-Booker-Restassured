@@ -1,0 +1,1 @@
+{"uuid":"3732570c-c61d-41c3-8b58-026acfbcf751","name":"Fake-Store","children":["5c92f544-1fbe-4a5c-ae6d-0f6c914b2eef"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1708547074562,"stop":1708547075246}],"afters":[],"start":1708547074557,"stop":1708547078444}

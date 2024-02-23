@@ -1,0 +1,5 @@
+testCases\TC02_CreateBooking.class
+testCases\TC04_DeleteBooking.class
+testCases\TC03_UpdateBooking.class
+testCases\testBase.class
+testCases\TC01_CreateToken_POST.class

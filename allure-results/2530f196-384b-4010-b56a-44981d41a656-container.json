@@ -1,0 +1,1 @@
+{"uuid":"2530f196-384b-4010-b56a-44981d41a656","name":"Check create token endpoint Positive scenarios","children":["f408ae56-fe00-489d-a83b-7ded9385a9c5"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1708163556418,"stop":1708163557503}],"afters":[],"start":1708163556378,"stop":1708163562483}

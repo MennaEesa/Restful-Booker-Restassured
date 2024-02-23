@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test name="Create booking id">
+        <classes>
+            <class name="testCases.TC02_CreateBooking">
+                <methods>
+                    <include name="createBooking_P"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Update booking id">
+        <classes>
+            <class name="testCases.TC03_UpdateBooking">
+                <methods>
+                    <include name="createUpdateBooking_P"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

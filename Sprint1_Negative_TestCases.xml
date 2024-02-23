@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test name="Check create token InValid Data">
+        <classes>
+            <class name="testCases.TC01_CreateToken_POST">
+                <methods>
+                    <include name="createTokenInValidData_N"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <test name="Check create token InValid UserName">
+        <classes>
+            <class name="testCases.TC01_CreateToken_POST">
+                <methods>
+                    <include name="createTokenInValidUserName_N"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Check create token InValid Password">
+        <classes>
+            <class name="testCases.TC01_CreateToken_POST">
+                <methods>
+                    <include name="createTokenInValidPassword_N"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
